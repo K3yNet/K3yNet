@@ -2,45 +2,39 @@
 
 <p align="center"><img src="https://i.imgur.com/TVdmm2k.gif"/></p>
 
-<p align="center">
-  <h2>DevOps Engineer | Cloud Enthusiast | Automation Expert</h2>
-</p>
+## DevOps Engineer | Cloud Enthusiast | Linux Expert
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
-</p>
+Olá! Sou [K3yNet], um engenheiro DevOps apaixonado por automação e tecnologias de nuvem. Sou graduado pela Universidade Federal de Lavras, no Brasil, e tenho um grande interesse em projetos open-source e em como melhorar a eficiência das equipes de desenvolvimento. Aqui você encontrará alguns dos meus projetos, contribuições e trabalhos de código aberto.
 
-<p align="center">
-  <h3>🔧 Tools & Technologies</h3>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</p>
+### Tech Stack
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
-<p align="center">
-  <h3>🚀 Let's Build the Future Together!</h3>
-</p>
+### 🔧 Technologies and Tools
 
-<p align="center">
-  <a href="https://github.com/k3ynet">
-    <img src="https://img.shields.io/github/followers/k3ynet?label=Follow&style=social" alt="github-follow"/>
-  </a>
-</p>
+- **Cloud**: AWS
+- **Containerization**: Docker
+- **CI/CD**: GitLab CI/CD, GitHub Actions
+- **Version Control**: Git, GitLab
+- **Monitoring**: Grafana
+- **Operating Systems**: Ubuntu, Debian, CentOS, Armbian
+- **Languages**: C++, Python
+
+### 🌱 I'm currently learning
+
+- [Em branco]
+
+### 🏆 Certifications
+
+- [Em branco]
+
+### 🎖️ Badges
+
+![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
+![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k3ynet&show_icons=true&theme=radical)
+
+Sinta-se à vontade para explorar meus repositórios e entre em contato para colaborações ou dúvidas. Vamos construir coisas incríveis juntos! 🚀
