@@ -4,7 +4,7 @@
 
 ## DevOps Engineer | Cloud Enthusiast | Linux Expert
 
-Olá! Sou [K3yNet], um engenheiro DevOps apaixonado por automação e tecnologias de nuvem. Sou graduado pela Universidade Federal de Lavras, no Brasil, e tenho um grande interesse em projetos open-source e em como melhorar a eficiência das equipes de desenvolvimento. Aqui você encontrará alguns dos meus projetos, contribuições e trabalhos de código aberto.
+Olá! Sou [K3yNet], um engenheiro DevOps apaixonado por automação e tecnologias de nuvem. Estou graduando! pela Universidade Federal de Lavras, no Brasil, e tenho um grande interesse em projetos open-source e em como melhorar a eficiência das equipes de desenvolvimento. Aqui você encontrará alguns dos meus projetos, contribuições e trabalhos de código aberto.
 
 ### Tech Stack
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
